@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Convertor</string>
+    <string name="Button">Convert</string>
+    <string name="dollar"> </string>
+    <string name="textView2">dollars</string>
+    <string name="euro"> </string>
+    <string name="textView">euro</string>
 </resources>
